@@ -1,0 +1,69 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "The Witcher 3: Wild Hunt",
+        "slug": "the-witcher-3-wild-hunt",
+        "description": "Immerse yourself in a vast, beautifully rendered world full of monsters, magic, and memorable characters.",
+        "price": 39.99,
+        "developer": "CD Projekt Red",
+        "isFeatured": true,
+        "image": "/games/witcher2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Red Dead Redemption 2",
+        "slug": "red-dead-redemption-2",
+        "description": "Experience the epic tale of life in America’s unforgiving heartland in this breathtaking action-adventure game.",
+        "price": 59.99,
+        "developer": "Rockstar Games",
+        "isFeatured": true,
+        "image": "/games/red-dead.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Cyberpunk 2077",
+        "slug": "cyberpunk-2077",
+        "description": "Step into the neon-lit world of Night City, a dystopian megalopolis obsessed with power..",
+        "price": 49.99,
+        "developer": "CD Projekt Red",
+        "isFeatured": false,
+        "image": "/games/cyberpunk.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Elden Ring",
+        "slug": "elden-ring",
+        "description": "Explore a massive open world filled with challenging enemies, deep lore, and dark fantasy elements.",
+        "price": 59.99,
+        "developer": "FromSoftware",
+        "isFeatured": true,
+        "image": "/games/elden-ring.png"
+      },
+    
+     
+      {
+        "id": 5,
+        "title": "Grand Theft Auto V",
+        "slug": "grand-theft-auto-v",
+        "description": "Experience the sprawling city of Los Santos in an expansive and detailed open-world filled with action.",
+        "price": 29.99,
+        "developer": "Rockstar Games",
+        "isFeatured": true,
+        "image": "/games/gta-five.jpg"
+      },
+     
+    
+      {
+        "id": 6,
+        "title": "Minecraft",
+        "slug": "minecraft",
+        "description": "Unleash your creativity and build your own world block by block in this iconic sandbox game.",
+        "price": 26.95,
+        "developer": "Mojang Studios",
+        "isFeatured": true,
+        "image": "/games/minecraft.jpg"
+      }
+    ]
+  }
+  
